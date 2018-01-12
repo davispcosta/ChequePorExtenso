@@ -1,0 +1,4 @@
+C:\Users\Davi\source\repos\Solution2\ConsoleApp1\obj\Debug\ChequePorExtenso.csprojResolveAssemblyReference.cache
+C:\Users\Davi\source\repos\Solution2\ConsoleApp1\obj\Debug\ChequePorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\Solution2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Davi\source\repos\Solution2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

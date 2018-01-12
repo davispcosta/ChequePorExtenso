@@ -1,0 +1,6 @@
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\obj\Debug\ChequePorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Davi\source\repos\Solution2\ClassLibrary2\obj\Debug\ChequePorExtenso.csprojResolveAssemblyReference.cache
